@@ -7,7 +7,7 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class partyResponse {
+public class PartyResponse {
     private Long partyId;
     private String partyName;
 }
